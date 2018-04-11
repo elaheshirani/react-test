@@ -1,0 +1,12 @@
+{
+  "id": 3,
+  "name": "Billy",
+  "family": "Cullen",
+  "mobile": "09101089236",
+  "email": "Billy@gmail.com",
+  "gender": "1",
+  "birthday": "1990-08-08",
+  "city": "USA",
+  "bio": "Sed ut perspiciatis unde omnis iste natus sit voluptatem accusantium doloremque laudantium, totam rem aperiam.",
+  "image" : "https://mdbootstrap.com/img/Photos/Others/men.jpg"
+}
